@@ -39,7 +39,7 @@ $28 ==> 5
 
 You can test your implementation with:
 ```
-java -cp ../demonslayer-test:. Test3
+java -cp ../demonslayer-test.jar:. Test3
 ```
 
 ---

@@ -12,7 +12,7 @@ bad OOP principles which resulted in this mess and made extensibility difficult.
 
 Make the necessary changes in the `Part1` directory. You can test your implementation with the command:
 ```
-java -cp ../demonslayer-test:. Test1
+java -cp ../demonslayer-test.jar:. Test1
 ```
 
 Hint: you should NOT be using the DemonSlayer class anymore. Do not copy this file over to the next parts.
@@ -159,7 +159,7 @@ Tanjiro was wounded! Current health: 87
 
 You can test your implementation with the command:
 ```
-java -cp ../demonslayer-test:. Test2
+java -cp ../demonslayer-test.jar:. Test2
 ```
 Good job! Now, you can move on to task 2.
 
